@@ -15,9 +15,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "",
-        "username": "",
-        "password": "",
+        "device_id": "ca31cd90f249a694",
+        "username": "user2",
+        "password": "pass",
         "expirydate": "1-9-2026",
         "Allowoffline": true
     },
