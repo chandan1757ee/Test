@@ -1,80 +1,11 @@
-
-[
-    {
-        "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ca31cd90f249a694",
-        "username": "user",
-        "password": "123",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ca31cd90f249a694",
-        "username": "user2",
-        "password": "pass",
-        "expirydate": "1-9-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ca31cd90f249a694",
-        "username": "ggg",
-        "password": "12",
-        "expirydate": "1-11-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "",
-        "username": "",
-        "password": "",
-        "expirydate": "1-11-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "",
-        "username": "",
-        "password": "",
-        "expirydate": "1-11-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "",
-        "username": "",
-        "password": "",
-        "expirydate": "1-11-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "",
-        "username": "",
-        "password": "",
-        "expirydate": "1-11-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "",
-        "username": "",
-        "password": "",
-        "expirydate": "1-11-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "",
-        "username": "",
-        "password": "",
-        "expirydate": "1-11-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "",
-        "username": "",
-        "password": "",
-        "expirydate": "1-11-2026",
-        "Allowoffline": false
-    }
-]
+{
+  "show": true,
+  "version_name": "9.1.58.1567",
+  "force_update": false,
+  "title": "New Update Available!",
+  "message": "Update to the latest version to enjoy new features and improvements.",
+  "button_text": "UPDATE NOW",
+  "cancel_button_text": "CLOSE",
+  "action_url": "https://recordapk.com/spotify-mod-apk/",
+  "theme": "dark"
+}
