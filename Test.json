@@ -1,11 +1,8 @@
 {
-  "show": false,
-  "version_name": "11.71.1",
-  "force_update": false,
-  "title": "New Update Available!",
-  "message": "Update to the latest version to enjoy new features and improvements.",
-  "button_text": "UPDATE NOW",
-  "cancel_button_text": "CLOSE",
-  "action_url": "https://t.me/+mUOYjQfJZ8gzMmI1",
-  "theme": "dark"
+  "showDialog": true,
+  "expires": "01-10-2025",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/ZenxModzOfficiall"
 }
